@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Crocodile</string>
+    <string name="timer">Timer</string>
+    <string name="timer_count">minutes</string>
+    <string name="gamers">Number of players</string>
+    <string name="gamers_count">∞</string>
+    <string name="popular_words">Popular words</string>
+    <string name="seriously_game">Serious game</string>
+    <string name="adult">18+</string>
+    <string name="hardcore">Hardcore</string>
+    <string name="difficulty1">Difficulty ○○●</string>
+    <string name="difficulty2">Difficulty ○●●</string>
+    <string name="difficulty3">Difficulty ●●●</string>
+    <string name="press_to_card">Press \n to see the word</string>
+    <string name="rules">Rules</string>
+    <string name="rules_info">Rules. \nPlayers are divided into teams. Each team takes turns: a player of the team has to describe a word.\nThe task of the team is to guess the word. \nThe player can only use facial expressions, movements and gestures \nThe player cannot speak or answer questions.</string>
+    <string name="max_gamers">The number of players is unlimited</string>
+    <string name="end_game">Words in this category are over! Exit to the menu and select another category or click again to start over</string>
+    <string name="end_time">Time left:</string>
+    <string name="end">Time is up! \n \nPrevious word: </string>
+    <string name="words1">Horizon Salt Rock Skyscraper Elevator Author Sofa Cat Watermelon School Desk Roof Grass Earth Wind Cup Diamond Kid Bouquet Sugar Ball Plant Anchor Flame Plum Apple Tea Picture Question Magazine Saturday Calendar Coffee Leopard Bathroom Chainsaw Cup Linoleum Snail Cocoa Hippopotamus Bohemian Narcissus Confessor Kangaroo Shampoo</string>
+    <string name="words2">Plumber Sign Croupier Trucker Psychiatrist Elevator Prosecutor Midwife Director Cosmonaut Cash collector Crane operator Merchandiser Miner Gynecologist Beekeeper Designer Electrician Trainer Archaeologist Veterinarian Lumberjack Chameleon Skunk Ostrich</string>
+    <string name="words3">Excitement Flirting Instinct Libido Push-up Chupa-chups Climax Doggy-style Weasel Aphrodisiac Flusher Spanking Lubricant Asexuality Passion Erection Nipple Moisturizing Orgy Stiffness Frigidity</string>
+    <string name="words4">Sculptor Diplomatist Promoter Rottweiler Crab Raccoon Shrimp Chinchilla Mentality Civilization Perspective Resonance Empire Industrialization Philosophy Configuration Configuration Situation Infrastructure Bundle Forgery Inspiration Hormone Ablation Mainland Friday Word Rent Monarchy Subscriber Provocation</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Timsoh</string>
+    <string name="timer">Taymer</string>
+    <string name="timer_count">daqiqa </string>
+    <string name="gamers"> O\'yinchilar soni</string>
+    <string name="gamers_count">∞</string>
+    <string name="popular_words"> Ommabop so\'zlar</string>
+    <string name="seriously_game"> Jiddiy o\'yin</string>
+    <string name="adult">18+</string>
+    <string name="hardcore">Hardcore</string>
+    <string name="difficulty1">Qiyinchilik ○○●</string>
+    <string name="difficulty2">Qiyinchilik ○●●</string>
+    <string name="difficulty3">Qiyinchilik ●●●</string>
+    <string name="press_to_card"> So\'zni ko\'rish uchun \n tugmasini bosing</string>
+    <string name="rules">Qoidalar</string>
+    <string name="rules_info">Qoidalar. \n Oyunchilar jamoalarga bo\'lingan. Har bir jamoa navbatma - navbat so\'zni ko\'rsatadi. \n Jamoaning vazifasi so\'zni taxmin qilishdir. \n Tasvir qiluvchi odam faqat yuz ifodalari, harakatlari va imo-ishoralarini ishlatishi mumkin \n Tasvir qiluvchi odam gapirolmaydi va savollarga javob bera olmaydi.</string>
+    <string name="max_gamers">Cheksiz miqdordagi o\'yinchilar</string>
+    <string name="end_game">Bu turkumdagi so\'zlar tugadi! Menyudan chiqing va boshqa toifani tanlang yoki qayta boshlash uchun yana bosing</string>
+    <string name="end_time">Qolgan vaqt:</string>
+    <string name="end">Vaqt tugadi! \n \n O\'tgan so\'z: </string>
+    <string name="words1">Ufq Tuz Osmono\'par bino Asansor Muallif divan Mushuk Tarvuz Maktab Tom Shamol Olmos Bola guldasta Shakar To\'pi Olov Olma Olxo\'ri Olma Choy Rasm Jurnal Shanba Taqvim Homva Chashka Linolyum Salyangot Kakao Gakao Karkasko Er Kubogi</string>
+    <string name="words2">Chilangar Psixiatr Lifter Prokuror Akusher Direktor Kinolog Astronavt Kollektor Operator Savdogar Miner Ginekolog Asalarichi Dizayner Elektrikchi Murabbiy Arxeolog Veterinar Xameleon Boa Skunk Chigirtka Tuyaqush Yalqov Chihuahua Burga Tovus Tırtıl Salyangoz Kurka Cho\'chqa </string>
+    <string name="words3">Qiziqish Flirtation Kamasutra Instinkt Libido Push-up Chupa-chups Doggy-style Afrodizyak Buzuqlik Vulgarlik Splusing Moylovchi aseksualizm Ehtiros Abstinence Erektsiya Frigidlik Orgiya Namlantiruvchi</string>
+    <string name="words4">Haykaltarosh Diplomat Targ\'ibotchi Rottweiler Chinchilla Paradigma Mentalitet Sivilizatsiya Perspektiv Rezonans Larti Barqarorlik Manba Kechikish Sanoatlashtirish Taqdir Infratuzilma Assimilyatsiya Konservatizm Xarakter Xaos Kilt Shaffoflik Shantaj Filolog Jasorat Pedant Ambitsiya Sarkazm Qulaylik Jingalak Soxta Ilhom Hazil Qisqartma Viktorina Gormon Bestseller Poliglot Mutant Albino Diaspora Premyera Maslahat Xiyonat Kislota Arteriya Prank Materik Juma So\'z Ijara Abonent Super Sekt Mantiq</string>
+</resources>

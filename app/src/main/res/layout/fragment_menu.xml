@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/t4_318761_3c3d3c"
+    tools:context=".ui.MenuFragment">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/margin_start"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="16dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/margin_end"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="16dp" />
+
+    <TextView
+        android:id="@+id/popular_words_button"
+        style="@style/MainTextView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/circle_angle"
+        android:text="@string/popular_words"
+        app:layout_constraintBottom_toTopOf="@id/seriously_game_button"
+        app:layout_constraintEnd_toEndOf="@id/margin_end"
+        app:layout_constraintStart_toStartOf="@id/margin_start"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="@string/difficulty1"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@id/popular_words_button"
+        app:layout_constraintEnd_toEndOf="@id/margin_end"
+        app:layout_constraintStart_toStartOf="@id/margin_start" />
+
+
+    <TextView
+        android:id="@+id/seriously_game_button"
+        style="@style/MainTextView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/circle_angle"
+        android:text="@string/seriously_game"
+        app:layout_constraintBottom_toTopOf="@id/adult_button"
+        app:layout_constraintEnd_toEndOf="@id/margin_end"
+        app:layout_constraintStart_toStartOf="@+id/margin_start"
+        app:layout_constraintTop_toBottomOf="@id/popular_words_button" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="@string/difficulty2"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@id/seriously_game_button"
+        app:layout_constraintEnd_toEndOf="@id/margin_end"
+        app:layout_constraintStart_toStartOf="@id/margin_start" />
+
+    <TextView
+        android:id="@+id/adult_button"
+        style="@style/MainTextView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/circle_angle"
+        android:text="@string/adult"
+        app:layout_constraintBottom_toTopOf="@id/hardcore_button"
+        app:layout_constraintEnd_toEndOf="@id/margin_end"
+        app:layout_constraintStart_toStartOf="@id/margin_start"
+        app:layout_constraintTop_toBottomOf="@id/seriously_game_button" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="@string/difficulty2"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@id/adult_button"
+        app:layout_constraintEnd_toEndOf="@id/margin_end"
+        app:layout_constraintStart_toStartOf="@id/margin_start" />
+
+    <TextView
+        android:id="@+id/hardcore_button"
+        style="@style/MainTextView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/circle_angle"
+        android:text="@string/hardcore"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@id/margin_end"
+        app:layout_constraintStart_toStartOf="@id/margin_start"
+        app:layout_constraintTop_toBottomOf="@id/adult_button" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="@string/difficulty3"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@id/hardcore_button"
+        app:layout_constraintEnd_toEndOf="@id/margin_end"
+        app:layout_constraintStart_toStartOf="@id/margin_start" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
