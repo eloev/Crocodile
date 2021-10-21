@@ -7,9 +7,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.NavHostFragment
-import com.android.yelloyew.crocodile.R
+import com.yelloyew.crocodile.R
 import com.yelloyew.crocodile.ViewModel
-import com.android.yelloyew.crocodile.databinding.FragmentMenuBinding
+import com.yelloyew.crocodile.databinding.FragmentMenuBinding
 
 class MenuFragment : Fragment() {
 

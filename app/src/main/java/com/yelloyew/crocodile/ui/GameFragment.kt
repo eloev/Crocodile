@@ -8,8 +8,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.view.isVisible
 import androidx.fragment.app.activityViewModels
-import com.android.yelloyew.crocodile.R
-import com.android.yelloyew.crocodile.databinding.FragmentGameBinding
+import com.yelloyew.crocodile.R
+import com.yelloyew.crocodile.databinding.FragmentGameBinding
 import com.yelloyew.crocodile.ViewModel
 
 class GameFragment : Fragment() {

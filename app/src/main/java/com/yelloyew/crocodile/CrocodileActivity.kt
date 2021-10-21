@@ -6,8 +6,8 @@ import android.view.*
 import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.findNavController
-import com.android.yelloyew.crocodile.R
-import com.android.yelloyew.crocodile.databinding.ActivityCrocodileBinding
+import com.yelloyew.crocodile.R
+import com.yelloyew.crocodile.databinding.ActivityCrocodileBinding
 
 class CrocodileActivity : AppCompatActivity() {
 
